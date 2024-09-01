@@ -1,2 +1,2 @@
 # Airline Routing Project
- A flight routing software designed to allow for enhanced journey specifications in flight searches
+This project is inspired by the little aviation geek inside of me (Jake Juliano) wanting to have a way to find and book flights with very niche specifications. The search and selection tools built into this engine will provide a much more detailed version of traditional booking engines. Such a search capability will hopefully enable booking more enjoyable flight paths and finding alternative options when traditional findings aren't satisfactory.
