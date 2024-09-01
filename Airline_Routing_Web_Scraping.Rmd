@@ -1,0 +1,14 @@
+---
+title: "Airline_Routing_Web_Scraping"
+author: "Jake Juliano"
+date: "`r Sys.Date()`"
+output: html_document
+runtime: shiny
+---
+
+```{python}
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
+```
